@@ -16,7 +16,7 @@ body {
 
 #title {
     font-size: 40px;
-    text-transform: uppercase;
+    text-transform:uppercase;
 }
 
 a {text-decoration: line-through;
@@ -56,5 +56,5 @@ a {text-decoration: line-through;
 }
 
 .contact_list li a {
-    text-decoration: none;
+    text-decoration:none;
 }
